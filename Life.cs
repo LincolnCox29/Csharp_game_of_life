@@ -19,21 +19,42 @@ namespace С__game_of_life
         {
             int counter = 0;
 
-            if (body.Contains(new Point(point.X, point.Y + 16)))
+            Point neighbor = new Point();
+
+            neighbor.X = point.X;
+            neighbor.Y = point.Y + 16;
+            if (body.Contains(neighbor))
                 counter++;
-            if (body.Contains(new Point(point.X, point.Y - 16)))
+
+            neighbor.Y = point.Y - 16;
+            if (body.Contains(neighbor))
                 counter++;
-            if (body.Contains(new Point(point.X + 16, point.Y)))
+
+            neighbor.X = point.X + 16;
+            neighbor.Y = point.Y;
+            if (body.Contains(neighbor))
                 counter++;
-            if (body.Contains(new Point(point.X - 16, point.Y)))
+
+            neighbor.X = point.X - 16;
+            if (body.Contains(neighbor))
                 counter++;
-            if (body.Contains(new Point(point.X + 16, point.Y + 16)))
+
+            neighbor.X = point.X + 16;
+            neighbor.Y = point.Y + 16;
+            if (body.Contains(neighbor))
                 counter++;
-            if (body.Contains(new Point(point.X + 16, point.Y - 16)))
+
+            neighbor.Y = point.Y - 16;
+            if (body.Contains(neighbor))
                 counter++;
-            if (body.Contains(new Point(point.X - 16, point.Y + 16)))
+
+            neighbor.X = point.X - 16;
+            neighbor.Y = point.Y + 16;
+            if (body.Contains(neighbor))
                 counter++;
-            if (body.Contains(new Point(point.X - 16, point.Y - 16)))
+
+            neighbor.Y = point.Y - 16;
+            if (body.Contains(neighbor))
                 counter++;
 
             return counter;

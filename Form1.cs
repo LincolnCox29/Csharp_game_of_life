@@ -61,6 +61,7 @@ namespace С__game_of_life
                     {
                         g.FillRectangle(life.black, x, y, 16, 16);
                         life.nextGeneration.Add(point);
+                        g.DrawRectangle(pen, x, y, 16, 16);
                         continue;
                     }
                     if (isAlive)

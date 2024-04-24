@@ -1,0 +1,17 @@
+C:\Users\79242\Desktop\Projects\С#_game of_life\bin\Release\net6.0-windows\С#_game of_life.exe
+C:\Users\79242\Desktop\Projects\С#_game of_life\bin\Release\net6.0-windows\С#_game of_life.deps.json
+C:\Users\79242\Desktop\Projects\С#_game of_life\bin\Release\net6.0-windows\С#_game of_life.runtimeconfig.json
+C:\Users\79242\Desktop\Projects\С#_game of_life\bin\Release\net6.0-windows\С#_game of_life.dll
+C:\Users\79242\Desktop\Projects\С#_game of_life\bin\Release\net6.0-windows\С#_game of_life.pdb
+C:\Users\79242\Desktop\Projects\С#_game of_life\obj\Release\net6.0-windows\С#_game of_life.csproj.AssemblyReference.cache
+C:\Users\79242\Desktop\Projects\С#_game of_life\obj\Release\net6.0-windows\С__game_of_life.Form1.resources
+C:\Users\79242\Desktop\Projects\С#_game of_life\obj\Release\net6.0-windows\С#_game of_life.csproj.GenerateResource.cache
+C:\Users\79242\Desktop\Projects\С#_game of_life\obj\Release\net6.0-windows\С#_game of_life.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79242\Desktop\Projects\С#_game of_life\obj\Release\net6.0-windows\С#_game of_life.AssemblyInfoInputs.cache
+C:\Users\79242\Desktop\Projects\С#_game of_life\obj\Release\net6.0-windows\С#_game of_life.AssemblyInfo.cs
+C:\Users\79242\Desktop\Projects\С#_game of_life\obj\Release\net6.0-windows\С#_game of_life.csproj.CoreCompileInputs.cache
+C:\Users\79242\Desktop\Projects\С#_game of_life\obj\Release\net6.0-windows\С#_game of_life.dll
+C:\Users\79242\Desktop\Projects\С#_game of_life\obj\Release\net6.0-windows\refint\С#_game of_life.dll
+C:\Users\79242\Desktop\Projects\С#_game of_life\obj\Release\net6.0-windows\С#_game of_life.pdb
+C:\Users\79242\Desktop\Projects\С#_game of_life\obj\Release\net6.0-windows\С#_game of_life.genruntimeconfig.cache
+C:\Users\79242\Desktop\Projects\С#_game of_life\obj\Release\net6.0-windows\ref\С#_game of_life.dll
