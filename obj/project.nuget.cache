@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TnXu56Bb2n7IXhzSxF2h0YSnyRbO7/ersIVzs1vq6Q1HltNtNTPjL5qD9VRLUQIv0HJnoH6TezoLHGyxn7i5Jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\79242\\Desktop\\Projects\\С#_game of_life\\С#_game of_life.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79242\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\79242\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\79242\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\79242\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
