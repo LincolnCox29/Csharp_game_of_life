@@ -100,8 +100,16 @@ namespace С__game_of_life
 
         private void KeyDownEvent(object sender, KeyEventArgs e)
         {
-            if (e.KeyCode == Keys.Space)
-                Pause();
+            switch(e.KeyCode)
+            {
+                case (Keys.Space):
+                    Pause();
+                    break;
+                case (Keys.C):
+                    life.body.Clear();
+                    Invalidate();
+                    break;
+            }
         }
     }
 }
