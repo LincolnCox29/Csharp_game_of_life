@@ -18,7 +18,7 @@ The rules of the Game of Life are simple:
 
 ## Credits
 
-This implementation was created by [Lincoln Cox](https://github.com/LincolnCox29).
+This implementation was created by [LincolnCox29](https://github.com/LincolnCox29).
 
 ---
 
@@ -42,6 +42,4 @@ This implementation was created by [Lincoln Cox](https://github.com/LincolnCox29
 
 ## Автор
 
-Эта реализация создана [Линкольном Коксом](https://github.com/LincolnCox29).
-
----
+Эта реализация создана [LincolnCox29](https://github.com/LincolnCox29).
